@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <students>
+    <Student>
+      <name>Monkey Luffy</name>
+      <gender>Male</gender>
+      <id>1234</id>
+      <year>2</year>
+      <no_of_courses>8</no_of_courses>
+    </Student>
+    <Student>
+      <name>Nami Mugiwara</name>
+      <gender>Female</gender>
+      <id>2843</id>
+      <year>3</year>
+      <no_of_courses>7</no_of_courses>
+    </Student>
+    <Student>
+      <name>Usopp</name>
+      <gender>Male</gender>
+      <id>1923</id>
+      <year>1</year>
+      <no_of_courses>9</no_of_courses>
+    </Student>
+    <Student>
+      <name>Nico Robin</name>
+      <gender>Female</gender>
+      <id>9231</id>
+      <year>4</year>
+      <no_of_courses>7</no_of_courses>
+    </Student>
+    <Student>
+      <name>Gol Roger</name>
+      <gender>Male</gender>
+      <id>9224</id>
+      <year>4</year>
+      <no_of_courses>8</no_of_courses>
+    </Student>
+  </students>
+</Students>
